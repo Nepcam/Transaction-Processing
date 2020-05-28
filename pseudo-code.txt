@@ -1,0 +1,8 @@
+Declare variables
+Get stream reader and writer
+Set filter for files
+Check if user has clicked 'ok' on open file dialog
+Check if user has clicked 'ok' on save file dialog
+Read lines of the selected file
+Calculate damage per second
+Write lines of selected file to the console and a new text file
