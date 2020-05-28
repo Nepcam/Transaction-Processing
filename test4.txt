@@ -1,0 +1,14 @@
+          weaponName          weaponType  damageValue         attackSpeed                 dps
+  Blackfang Bludgeon        Great Hammer          489                1.44    339.583333333333
+        Boneshredder           Great Axe          256                0.84    304.761904761905
+        Comet's Tail         Great Sword          872                 1.2    726.666666666667
+         Decapitator         Great Sword          188                1.08    174.074074074074
+          Demolisher        Great Hammer          887                1.32    671.969696969697
+          Dragondoom           Great Axe          762                0.96              793.75
+   Dragonfang Skewer         Great Sword          754                1.08    698.148148148148
+        Dwarfbreaker        Great Hammer          119                1.56    76.2820512820513
+           Equalizer         Great Sword          200                 1.2    166.666666666667
+   Fused Iron Wrench        Great Hammer          436                1.56     279.48717948718
+         Gatecrasher        Great Hammer          824                1.32    624.242424242424
+ Gearbladed Grindsaw         Great Sword          629                0.96    655.208333333333
+        Goblinskewer         Great Sword          215                0.84    255.952380952381

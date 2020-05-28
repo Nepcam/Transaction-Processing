@@ -42,6 +42,7 @@
             this.btnProcessFile.TabIndex = 0;
             this.btnProcessFile.Text = "Process File";
             this.btnProcessFile.UseVisualStyleBackColor = true;
+            this.btnProcessFile.Click += new System.EventHandler(this.btnProcessFile_Click);
             // 
             // btnExit
             // 
@@ -51,6 +52,7 @@
             this.btnExit.TabIndex = 1;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // openFileDialog1
             // 
